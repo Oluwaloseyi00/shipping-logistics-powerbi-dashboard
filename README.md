@@ -67,6 +67,10 @@ The dataset includes detailed fields such as:
 
 ## 📸 Dashboard Preview
 ![1_page-0001](https://github.com/user-attachments/assets/4367cf70-597a-4efc-b9ed-c29ae51ab0e3)
+![2_page-0001](https://github.com/user-attachments/assets/f6782551-e2c9-4c2d-b1b8-b7b2fb0c2bb6)
+![3_page-0001](https://github.com/user-attachments/assets/22348a54-edbd-490b-8405-ee10ea8c146f)
+![4_page-0001](https://github.com/user-attachments/assets/3b40dd9f-8ec5-4832-93f6-7c77d925c8a6)
+![5_page-0001](https://github.com/user-attachments/assets/6f6d6b36-262d-4c81-9417-1857719af051)
 
 
 ---
